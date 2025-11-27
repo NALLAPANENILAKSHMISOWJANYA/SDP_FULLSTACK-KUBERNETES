@@ -110,7 +110,7 @@ function AddProduct() {
           </select>
         </div>
 
-        <button type="submit">Add Product</button>
+        <button type="submit">Add Products</button>
       </form>
     </div>
   );
